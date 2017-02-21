@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-396d8f8d2b85ca63e4a97e6a475d0def51673c5a.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-8157b701a57ea48b9eb6f35863bed495d11d8f64.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-3693a38595cb0bdb5881515673aa04d48c66ee0a.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e7e22cbdf05638bd210678449025b641c9d5e1d">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-4fc581b69dd584c77f6dc80fe1eb375865a5c0fb.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-7e4a57c5d43bcca3a9ef597fcc7d8d47c88e4095.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-9caa10d6fb6938d9564cfd862026f176b0936c31.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/NewDemo/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5df27c374542ac093fe1def047002d6bdb79102">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-446bc8e00093bb39350a433dc7e71f616351fe80.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-a25c6cdf897a60b45b94c7b00f42c73b35aee1c1.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-eb1586cf0f84ad8303596946ee94a6d086c37de9.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-c683fd7ec7c16e40a49ceeee8b1810a670b0f1a8.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-d684d37771492a4c12d715a5e81f81942a902cff.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-30c32d572bdd85f4f1d498a621e95acba53d4234.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-7467cbd1a9e542150af0d6b9833169536c8f6400.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-ace48cbca30ca9de8a8e59bc2a1ab0234f522cc4.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-a1a14518c40e4bc6aa001f0cd9490a421c7ad4c9.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-f62df8110dac6e09365e17126781e3dfa4cb4ccb.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-f7c7e193033ab637ded5df066312a2f78566e2fd.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-3445d62a254fe38a3d10bf85dcdb85bc33c350f4.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-939aad7a5c1350ce5c139e20f55bf8bec530bb23.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-ff44639cf4fa228e2ea671f292079c440d7d756f.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-7ad9e13c0aba45b05fd8cad9152ef9654e4332af.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-180f48bf90cb85405f3fb6c848378ccc86395cd4.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-9c6dc771bd8c37754d04f49cc4d505878ad50843.jar" />
+    </item>
+    <item
+        jar="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb31c0515d0137b2d5e4f4236e89b94f0d922d10">
+        <dex dex="/Users/maliang/Rn/NewDemo/android/app/build/intermediates/pre-dexed/debug/classes-f5acee3a958b8aa4af9f1e89cf955b297bfc6724.jar" />
+    </item>
+
+</items>
